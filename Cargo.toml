@@ -1,6 +1,14 @@
 [package]
 name = "metalcab"
+description = "Safer Rust binding for MeCab"
 version = "0.1.0"
 authors = ["Masaki Hara <ackie.h.gmai@gmail.com>"]
+
+homepage = "https://github.com/qnighy/metalcab"
+repository = "https://github.com/qnighy/metalcab"
+readme = "README.md"
+keywords = ["libmecab" "japanese" "mecab" "analyzer" "morphological"]
+categories = ["algorithms", "api-bindings", "external-ffi-bindings", "text-processing"]
+license = "GPL-2.0 OR LGPL-2.1 OR BSD-3-Clause"
 
 [dependencies]
